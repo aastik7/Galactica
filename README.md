@@ -8,5 +8,7 @@ The objective is to outmaneuver the opponent and strategically use weapons to de
 ## Requirements 
 
 Install [Python](https://www.python.org/downloads/)
-Instlal Pygame : pip3 install pygame
+
+
+Install Pygame : pip3 install pygame
 
