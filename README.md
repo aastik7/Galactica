@@ -5,6 +5,8 @@ who can attack each other from adjacent sides.
 The objective is to outmaneuver the opponent and strategically use weapons to defeat the enemy spaceship.
 Sure, here's how you can create a `README.md` file for your GitHub repository:
 
+![ezgif-5-0ac973adf1](https://github.com/user-attachments/assets/d32464ac-d948-4a8c-bd46-030a6209f9a0)
+
 ```markdown
 
 ## Installation
@@ -28,7 +30,7 @@ Sure, here's how you can create a `README.md` file for your GitHub repository:
 
 1. Run the game:
    ```bash
-   python space_battle.py
+   python main.py
    ```
 
 2. Control the yellow spaceship using the W, A, S, and D keys and shoot bullets with the Left Ctrl key.
